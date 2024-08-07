@@ -15,7 +15,7 @@ The daws I use :
 <a href="https://www.reaper.fm/"><img src="daw_icons/ableton.png"></a>
 <a href="https://www.reaper.fm/"><img src="daw_icons/studio_one.png"></a>
 
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
