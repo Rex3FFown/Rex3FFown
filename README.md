@@ -18,5 +18,5 @@ As a sound engineer, I am experienced in the use of many professional daw.
 <a href="https://www.java.com/tr/" target="_blank" rel="noopener noreferrer"><img src="java.png" width="50" height="50" alt="Java"></a>
 <a href="https://www.python.org/" target="_blank" rel="noopener noreferrer"><img src="python.png" width="50" height="50" alt="Python"></a>
 <a href="https://nodejs.org/en" target="_blank" rel="noopener noreferrer"><img src="js.png" width="50" height="50" alt="JavaScript"></a>
-<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="react.png" width="60" height="50" alt="React"></a>
+<a href="https://react.dev/" target="_blank" rel="noopener noreferrer"><img src="react.png" width="55" height="50" alt="React"></a>
 
